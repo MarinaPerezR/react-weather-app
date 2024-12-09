@@ -9,7 +9,7 @@ export default function Footer() {
         <strong> Marina P.R.</strong>
       </a>
       , is open-sourced on
-      <a href="https://github.com/MarinaPerezR/el-tiempo" rel="noreferrer" target="_blank">
+      <a href="https://github.com/MarinaPerezR/react-weather-app" rel="noreferrer" target="_blank">
         {" "}
         GitHub{" "}
       </a>
